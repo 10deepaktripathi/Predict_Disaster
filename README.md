@@ -11,7 +11,7 @@ The author explicitly uses the word “ABLAZE” but means it metaphorically. Th
 In this task, we have to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. You’ll have access to a dataset of 10,000 tweets that were hand classified.
 
 
-
+## Directory Structure
 - [disaster-eda-and-prediction-with-roberta-catboost.ipynb](./disaster-eda-and-prediction-with-roberta-catboost.ipynb):Notebook contains detailed steps taken for modelling the tweets related to disater data
 - [train.csv](./train.csv): the training set, which includes the labeled tweets.
 - [test.csv](./test.csv): the test set; your task is to predict the tweets available in test file

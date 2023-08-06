@@ -12,6 +12,6 @@ In this task, we have to build a machine learning model that predicts which Twee
 
 
 ## Directory Structure
-- [predict_disaster_with_roberta_cTF_IDF.ipynb](./predict_disaster_with_roberta_cTF_IDF.ipynb):Notebook contains detailed steps taken for modelling the tweets related to disater data
+- [bart-and-flan-t5-base-model.ipynb](./bart-and-flan-t5-base-model.ipynb):Notebook contains detailed steps taken for modelling the tweets related to disater data
 - [train.csv](./train.csv): the training set, which includes the labeled tweets.
 - [test.csv](./test.csv): the test set; your task is to predict the tweets available in test file
